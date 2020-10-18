@@ -4,7 +4,7 @@
 [![Code Climate](https://codeclimate.com/github/ingadhoc/website/badges/gpa.svg)](https://codeclimate.com/github/ingadhoc/website)
 
 # ADHOC website
-
+ WELCOME TO OUR WEBSITE
 ADHOC Odoo website Modules
 
 [//]: # (addons)
